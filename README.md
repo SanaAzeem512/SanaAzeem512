@@ -1,8 +1,7 @@
 <!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
 <!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
 
-<a href="#"><img width="800" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(5).gif" height="175px"/></a>
-
+![giphy (2)](https://github.com/SanaAzeem512/SanaAzeem512/assets/120891006/6a6cb272-60fc-4030-a8e3-a195b286c616)
 
 <h1 align="center">I believe <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"> Where Logic Meets Creativity </h1>
 <h3 align="center">Building Bridges in the Digital World</h3>
