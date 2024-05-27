@@ -1,4 +1,4 @@
-<!-- <a href="#"><img width="1380" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
+<!-- <a href="#"><img width="1280" height="576" src="https://github.com/jsm-28415/Personal/blob/main/7YQo.gif" height="175px"/></a> -->
 <!-- <a href="#"><img width="1000" height="auto" src="https://github.com/jsm-28415/Personal/blob/main/ezgif.com-gif-maker%20(11).gif" height="175px"/></a> -->
 
 ![giphy-ezgif com-webp-to-gif-converter](https://github.com/SanaAzeem512/SanaAzeem512/assets/120891006/eba16b9b-72c3-4160-bd34-7d90aa9a085c)
