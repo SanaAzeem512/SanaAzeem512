@@ -27,7 +27,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on ...**MERN**
-- 🌱 I’m currently learning ... **NodeJs & ReactJs**
+- 🌱 I’m currently learning ... **Nextjs**
 - 👯 I’m looking to collaborate on **YouTube**
 - 👊🤜 I always had a fight with me VS me 
 - 💬 Ask me about ... Web Development, Data Structures & Algorithms <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px" height="38">
