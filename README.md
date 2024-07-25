@@ -87,6 +87,7 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/sana-azeem-629967250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://leetcode.com/u/Sanaazeem/" > <img src="<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" height="40" style="max-width: 100%;"/></a>
 <!-- <a href = "https://twitter.com/MalikHacking"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.instagram.com/hi_malik_"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
 <!-- <a href = "https://www.youtube.com/channel/UCB56-AiILovestYUPiGq8ng"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
